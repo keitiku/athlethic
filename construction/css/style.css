@@ -1,0 +1,15 @@
+.construction {
+  max-width: 100vw;
+  text-align: center;
+  min-height: 90vh;
+  z-index: 100;
+  position: relative;
+  color: #fff;
+  background-color: #000;
+}
+
+.construction img {
+  max-width: 80vw;
+  max-height: 80vh;
+  padding-top: 15vh;
+}
